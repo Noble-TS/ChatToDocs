@@ -8,12 +8,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/chatodocs.git"
+    "url": "https://github.com/Noble-TS/ChatToDocs.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/chatodocs/issues"
+    "url": "https://github.com/Noble-TS/ChatToDocs/issues"
   },
-  "homepage": "https://github.com/your-username/chatodocs#readme",
+  "homepage": "https://github.com/Noble-TS/ChatToDocs#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
